@@ -1,1 +1,1 @@
-setclipboard(game:GetService("RbxAnalyticsService"):GetClientID())
+setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())
